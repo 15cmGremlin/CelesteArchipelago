@@ -1,0 +1,28 @@
+Outline of the current plan:
+	Checks:
+		Strawberries
+		Moon Berry (optional)
+		Golden Berries (extremely optional)
+		Hearts
+		Cassettes
+		2nd dash?
+	Things to get:
+		Strawberries (funny)
+		Cassettes
+		Hearts
+		2nd dash?
+	Challenges:
+		Dashless 1A
+		Heart door on the last level?
+		No stamina traps
+		Mirror traps
+		Randomized level order
+	Reach Goals:
+		Add modded levels?
+
+TODO:
+	Figure out how to get item IDs
+	Override item collection to instead send a check to the server
+	Override item collection to actually collect items when given a check from the server
+	Override the player inventory to modify the amount of dashes if the 2nd dash has been given
+	Determine how to interface with the server
